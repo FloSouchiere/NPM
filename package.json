@@ -1,0 +1,19 @@
+{
+  "name": "NPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scipt.js",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "today": "echo \"14/05/2020\"",
+    "weather": "node sf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
